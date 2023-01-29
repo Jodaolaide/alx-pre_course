@@ -1,1 +1,2 @@
-This is my new commit
+I have a new commit
+
